@@ -1,4 +1,4 @@
-<img width="853" height="722" alt="KETQUA" src="https://github.com/user-attachments/assets/a1cb14e5-1326-4af2-8b81-aa81513a3d79" />
+
 # LAB 2 - AIoT Data Preparation + Baseline Model + Deploy Demo
 
 ## 1. Project này dùng để làm gì?
