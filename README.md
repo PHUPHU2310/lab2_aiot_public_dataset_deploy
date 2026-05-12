@@ -311,8 +311,7 @@ anomaly_score = mean(|z_i|) với z_i = (x_i - μ_train) / σ_train
 <img width="848" height="708" alt="Ketqua2" src="https://github.com/user-attachments/assets/e29ac04f-85f6-46b2-aa89-fe14dfa0709f" />
 <img width="853" height="722" alt="ketqua" src="https://github.com/user-attachments/assets/aeacb6e4-83c1-4bf6-8494-605545f86b01" />
 <img width="853" height="722" alt="ketqua" src="https://github.com/user-attachments/assets/ce7a4c15-64f8-4369-81e1-cdde163355c0" />
-<img width="853" height="722" alt="KETQUA" src="https://github.com/user-attachments/assets/98633e9c-28fa-46b6-9cbe-27dbae53be1d" />
-<img width="853" height="722" alt="KETQUA" src="https://github.com/user-attachments/assets/9cdfbe1a-3e5f-40f7-a1de-7fc3e0172c03" />
+
 
 ### 9.7 Giải thích kỹ thuật: Luồng Telemetry → Decision
 
