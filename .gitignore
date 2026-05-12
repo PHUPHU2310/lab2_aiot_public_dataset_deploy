@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Model artifacts (optional - comment out nếu muốn commit model)
+# models/*.joblib
+
+# Data lớn (optional - comment out nếu muốn commit data)
+# data/public_occupancy_detection/
+
+# Logs
+*.log

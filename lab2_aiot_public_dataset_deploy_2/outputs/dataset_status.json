@@ -1,0 +1,13 @@
+{
+  "dataset_source": "UCI Occupancy Detection public dataset via LuisM78 GitHub mirror",
+  "messages": [
+    "Downloaded: datatraining.txt -> C:\\Users\\Jang\\Downloads\\lab2_aiot_public_dataset_deploy_2\\lab2_aiot_public_dataset_deploy_2\\data\\public_occupancy_detection\\datatraining.txt",
+    "Downloaded: datatest.txt -> C:\\Users\\Jang\\Downloads\\lab2_aiot_public_dataset_deploy_2\\lab2_aiot_public_dataset_deploy_2\\data\\public_occupancy_detection\\datatest.txt",
+    "Downloaded: datatest2.txt -> C:\\Users\\Jang\\Downloads\\lab2_aiot_public_dataset_deploy_2\\lab2_aiot_public_dataset_deploy_2\\data\\public_occupancy_detection\\datatest2.txt"
+  ],
+  "public_dataset_links": {
+    "datatraining.txt": "https://raw.githubusercontent.com/LuisM78/Occupancy-detection-data/refs/heads/master/datatraining.txt",
+    "datatest.txt": "https://raw.githubusercontent.com/LuisM78/Occupancy-detection-data/refs/heads/master/datatest.txt",
+    "datatest2.txt": "https://raw.githubusercontent.com/LuisM78/Occupancy-detection-data/refs/heads/master/datatest2.txt"
+  }
+}
