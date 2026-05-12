@@ -1,3 +1,4 @@
+<img width="853" height="722" alt="KETQUA" src="https://github.com/user-attachments/assets/a1cb14e5-1326-4af2-8b81-aa81513a3d79" />
 # LAB 2 - AIoT Data Preparation + Baseline Model + Deploy Demo
 
 ## 1. Project này dùng để làm gì?
@@ -284,6 +285,8 @@ anomaly_score = mean(|z_i|) với z_i = (x_i - μ_train) / σ_train
 | `/docs` | GET | Swagger UI tương tác |
 
 **Kết quả test:** `API TEST PASSED: FastAPI model deployment is working.`
+<img width="1365" height="697" alt="Predict" src="https://github.com/user-attachments/assets/fc3949f3-2967-4755-a86b-9cda08ebda9a" />
+<img width="1361" height="697" alt="Health" src="https://github.com/user-attachments/assets/76f60196-7ce2-4152-a532-53d343b5fd28" />
 
 **Ví dụ response `/predict`:**
 ```json
@@ -305,6 +308,11 @@ anomaly_score = mean(|z_i|) với z_i = (x_i - μ_train) / σ_train
 ```
 
 ---
+<img width="848" height="708" alt="Ketqua2" src="https://github.com/user-attachments/assets/e29ac04f-85f6-46b2-aa89-fe14dfa0709f" />
+<img width="853" height="722" alt="ketqua" src="https://github.com/user-attachments/assets/aeacb6e4-83c1-4bf6-8494-605545f86b01" />
+<img width="853" height="722" alt="ketqua" src="https://github.com/user-attachments/assets/ce7a4c15-64f8-4369-81e1-cdde163355c0" />
+<img width="853" height="722" alt="KETQUA" src="https://github.com/user-attachments/assets/98633e9c-28fa-46b6-9cbe-27dbae53be1d" />
+<img width="853" height="722" alt="KETQUA" src="https://github.com/user-attachments/assets/9cdfbe1a-3e5f-40f7-a1de-7fc3e0172c03" />
 
 ### 9.7 Giải thích kỹ thuật: Luồng Telemetry → Decision
 
